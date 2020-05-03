@@ -51,7 +51,7 @@ Você pode aprender C# em diversos lugares diferentes e de graça. Além desse t
 
 Então pessoal, neste tutorial, faremos uma aplicação que armazena números em uma **pilha**. 
 
-Uma pilha é uma estrutura de dados do tipo **Último a entrar, Primeiro a sair** (LIFO, First In First Out em inglês). 
+Uma pilha é uma estrutura de dados do tipo **Último a entrar, Primeiro a sair** (LIFO, Last In First Out em inglês). 
 
 <p align="center">
 	<img src="/imagens/pilha.png" alt="pilha" width="450px" />
